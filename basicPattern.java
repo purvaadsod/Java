@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-// import javax.swing.JApplet;
-
 public class basicPattern {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in) ;
@@ -127,12 +125,8 @@ for (int i = 0; i < 6; i++) {
    }
    System.out.println();
 }
-
-
    sc.close();
    
-
-
   }
       
  }
